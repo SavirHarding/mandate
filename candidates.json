@@ -1,0 +1,51 @@
+{
+  "UNC": {
+    "name": "Kamla Persad-Bissessar",
+    "party": "United National Congress",
+    "startingStats": {
+      "momentum": 50,
+      "funds": 50,
+      "base": 52,
+      "media": 50,
+      "crime": 45,
+      "fatigue": 45
+    }
+  },
+  "PNM": {
+    "name": "Stuart Young",
+    "party": "People's National Movement",
+    "startingStats": {
+      "momentum": 52,
+      "funds": 55,
+      "base": 50,
+      "media": 50,
+      "crime": 50,
+      "fatigue": 40
+    }
+  },
+  "TPP": {
+    "name": "Farley Augustine",
+    "party": "Tobago People's Party",
+    "region": "Tobago",
+    "startingStats": {
+      "momentum": 55,
+      "funds": 40,
+      "base": 60,
+      "media": 45,
+      "crime": 48,
+      "fatigue": 35
+    }
+  },
+  "NTA": {
+    "name": "Gary Griffith",
+    "party": "National Transformation Alliance",
+    "startingStats": {
+      "momentum": 48,
+      "funds": 42,
+      "base": 45,
+      "media": 52,
+      "crime": 60,
+      "fatigue": 38
+    }
+  }
+}
