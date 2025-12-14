@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Siparia",
+    "region": "Trinidad",
+    "lean": { "UNC": 63, "PNM": 37 }
+  },
+  {
+    "name": "Port of Spain South",
+    "region": "Trinidad",
+    "lean": { "PNM": 59, "UNC": 41 }
+  },
+  {
+    "name": "Tobago East",
+    "region": "Tobago",
+    "lean": { "TPP": 66, "PNM": 34 }
+  }
+]
