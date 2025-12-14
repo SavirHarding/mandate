@@ -1,0 +1,25 @@
+{
+  "base": [
+    {
+      "question": "The cost of living dominates the campaign.",
+      "answers": [
+        {
+          "text": "Blame global forces and urge patience",
+          "effects": { "momentum": -1, "media": 1, "fatigue": 1 }
+        },
+        {
+          "text": "Promise immediate relief",
+          "effects": { "base": 2, "funds": -2 }
+        },
+        {
+          "text": "Attack the government's record relentlessly",
+          "effects": { "momentum": 2, "media": 1 }
+        }
+      ]
+    }
+  ],
+  "UNC": [],
+  "PNM": [],
+  "TPP": [],
+  "NTA": []
+}
