@@ -1,0 +1,4 @@
+.win.UNC { outline: 2px solid #ef4444; }
+.win.PNM { outline: 2px solid #facc15; }
+.win.TPP { outline: 2px solid #22c55e; }
+.win.NTA { outline: 2px solid #3b82f6; }
